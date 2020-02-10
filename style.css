@@ -3,4 +3,7 @@
 }
 .active{
     display:block;
+    background-color: yellowgreen;
+    text-align: center;
+    color: teal;
 }
